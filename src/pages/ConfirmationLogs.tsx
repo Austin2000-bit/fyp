@@ -416,8 +416,6 @@ const ConfirmationLogs = () => {
           </div>
         </div>
       </div>
-      
-      <Footer />
     </div>
   );
 };
